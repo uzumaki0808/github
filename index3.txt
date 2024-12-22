@@ -1,0 +1,1 @@
+Use meaningful branch names: e.g., feature/login, bugfix/session-timeout.

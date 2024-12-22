@@ -1,0 +1,1 @@
+Merge frequently: Regularly merge the main branch into feature branches to stay up to date.
